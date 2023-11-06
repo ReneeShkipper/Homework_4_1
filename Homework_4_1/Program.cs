@@ -1,5 +1,3 @@
-﻿using System.Security.Cryptography.X509Certificates;
-
 Console.WriteLine("Write the size of the array");
 int N = int.Parse(Console.ReadLine());
 Console.WriteLine("Fill the array");
